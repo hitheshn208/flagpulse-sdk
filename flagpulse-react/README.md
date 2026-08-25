@@ -6,6 +6,7 @@ A lightweight React SDK for FlagPulse, a self-hostable feature flag platform. Th
 
 Official docs: https://flagpulse.h208.me
 
+Self-hosted FlagPulse instance: https://github.com/hitheshn208/flagpulse
 
 ## What this package does
 
@@ -210,7 +211,7 @@ function OverviewPage() {
 
 ## License
 
-ISC
+MIT
 
 ## Notes
 
